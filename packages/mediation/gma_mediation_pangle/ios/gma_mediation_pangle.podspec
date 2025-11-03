@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'GoogleMobileAdsMediationPangle', '~> 7.5.0.5.0'
+  s.dependency 'GoogleMobileAdsMediationPangle', '~> 7.6.0.6.0'
   s.platform = :ios, '12.0'
   s.static_framework = true
 
